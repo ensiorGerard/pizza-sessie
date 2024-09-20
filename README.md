@@ -1,1 +1,3 @@
 # pizza-sessie
+
+Dit is nu nog een blanco repository. Maandag volgt er meer...
